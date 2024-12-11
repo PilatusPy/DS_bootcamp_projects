@@ -1,3 +1,2 @@
-# DS_bootcamp_projects
- bootcamp projects and all capstones
-# analysis
+# Data Science Bootcamp Projects
+Collection of DS bootcamp projects and exercises
