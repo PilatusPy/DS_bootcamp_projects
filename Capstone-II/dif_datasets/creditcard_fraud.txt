@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/gokulrejith/credit-card-fraud-detection-dataset
+https://www.kaggle.com/datasets/whenamancodes/fraud-detection
